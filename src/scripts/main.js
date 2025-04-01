@@ -1,4 +1,5 @@
 'use strict';
+// God bless you mateacademy-ai-mentor
 
 document.addEventListener('DOMContentLoaded', function () {
   const table = document.querySelector('table');
